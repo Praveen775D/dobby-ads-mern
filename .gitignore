@@ -1,0 +1,11 @@
+# Node modules in any folder
+**/node_modules/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Build folders
+client/build/
